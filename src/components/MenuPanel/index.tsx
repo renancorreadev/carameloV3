@@ -43,12 +43,12 @@ export function MenuPanel({ isOpen, onClose }: MenuPanelProps) {
 
         <div className="panel">
           <ul className="nav-y gap-narrow fw-medium fs-6" data-uc-nav>
-            <li><Link href="#about" onClick={onClose} className="text-dark">Sobre</Link></li>
-            <li><Link href="#features" onClick={onClose} className="text-dark">Vantagens</Link></li>
-            <li><Link href="#roadmap" onClick={onClose} className="text-dark">Roadmap</Link></li>
-            <li><Link href="#tokenomics" onClick={onClose} className="text-dark">Tokenomics</Link></li>
-            <li><Link href="#faq" onClick={onClose} className="text-dark">FAQ</Link></li>
-            <li><Link href="#contact" onClick={onClose} className="text-dark">Contato</Link></li>
+            <li><Link href="https://www.caramelocoin.com/#about" onClick={onClose} className="text-dark">Sobre</Link></li>
+            <li><Link href="https://www.caramelocoin.com/#features" onClick={onClose} className="text-dark">Vantagens</Link></li>
+            <li><Link href="https://www.caramelocoin.com/#roadmap" onClick={onClose} className="text-dark">Roadmap</Link></li>
+            <li><Link href="https://www.caramelocoin.com/#tokenomics" onClick={onClose} className="text-dark">Tokenomics</Link></li>
+            <li><Link href="https://www.caramelocoin.com/#faq" onClick={onClose} className="text-dark">FAQ</Link></li>
+            <li><Link href="https://www.caramelocoin.com/#contact" onClick={onClose} className="text-dark">Contato</Link></li>
             <li className="hr opacity-10 my-1"></li>
      
           </ul>
