@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { MenuPanel } from "../MenuPanel";
+import { MenuPanel } from "../Modal/MenuPanel";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 
 export function Header() {
