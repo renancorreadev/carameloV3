@@ -64,7 +64,7 @@ export const rainbowWeb3AuthConnector = (): Wallet => ({
   id: "web3auth",
   name: "Login Social",
   rdns: "web3auth",
-  iconUrl: "https://i.ibb.co/wJvGtXS/dog.png",
+  iconUrl: "https://www.caramelocoin.com/assets/images/caramelo-icone.png",
   iconBackground: "#fff",
   installed: true,
   downloadUrls: {},
